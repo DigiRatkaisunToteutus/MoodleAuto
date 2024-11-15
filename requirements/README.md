@@ -1,4 +1,6 @@
 # Vaatimuspuun rakentamista
+Tässä muistiinpanoja vaatimuksista, työskentelydokumentti. Kun joku vaatimus on loppuun asti muotoiltu siitä tehdään github "issue" ja sitä seurataan "project board" näkymässä. 
+
 # jatkuvan arvoinnin Vaatimusmäärittelyä
 * On tuettava ja seurattava vuorovaikutusta riittävällä tasolla automaattisesti. 
     * On havaittava nopeasti tukea tarvitsevat tilanteet
